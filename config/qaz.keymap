@@ -9,8 +9,9 @@
 #include <dt-bindings/zmk/bt.h>
 
 #define DEFAULT 0
-#define NUM_SYM 1
-#define NAV     2
+#define UP      1
+#define DOWN    2
+#define FUNCS   3
 
 / {
     behaviors {
